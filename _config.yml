@@ -49,16 +49,14 @@ background-img: "../img/intro-bg.jpg"
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
-loop: True
+shuffle: False # Shuffle the lines.
+loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Find me on the intersection of product, management and code"
-  - text: "Pants are stupid."
-  - text: "wubalubadubdub"
 
 me-img: "/img/karen.png"
 
