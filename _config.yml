@@ -127,14 +127,18 @@ timeline-img: "/img/timeline/default.png"
 ##################
 
 social:
-  # - title: "facebook"
-    # url: "https://facebook.com/"
   - title: "twitter"
     url: "https://twitter.com/karen_meep"
+  - title: "lastfm"
+    url: "https://last.fm/user/-Karen-"
+  - title: "instagram"   
+    url: "https://www.instagram.com/karen_meep/"
+  - title: "lanyrd"   
+    url: "https://lanyrd.com/profile/karencohen/"
   - title: "github"
     url: "https://github.com/karenmeep"
-  # - title: "bitcoin"
-  #   url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/karenzellnercohen"
   - title: "rss"
     url: "/feed.xml"
 
