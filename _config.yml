@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Karen Meep"
-title: "{ Karen Meep }"
+title: "Karen Meep"
 description: "Blog and website of Karen Meep."
 keywords: "karen, meep, karen_meep, cohen, zellner, personal, blog, product, management, tech, pants"
 favicon: "/img/favicon.ico"
