@@ -17,7 +17,7 @@ Engineers are the heart and soul of software companies. If they are pushed to do
 My product will be less prone to errors as the engineers who implement it have more time to invest in testing. They have time to think about what they’re doing, the implementation, its drawbacks and possible side affects.
 My product design will be better. A major part of my job is to listen and collect ideas for my product. I encourage, nay, expect, the engineers I work with have an opinion on the feature they’re developing or the bug that they’re fixing. When engineers are racing to meet a deadline they have no time to think outside of their problem domain, and if they’ve been in this routine for long enough they don’t care either.
 
-![Office Space](../img/officeSpace.jpg)
+![Office Space]({{ url }}/img/officeSpace.jpg)
 
 > "Innovation comes from people meeting up in the hallways or calling each other at 10:30 at night with a new idea, or because they realized something that shoots holes in how we’ve been thinking about a problem"
 >
