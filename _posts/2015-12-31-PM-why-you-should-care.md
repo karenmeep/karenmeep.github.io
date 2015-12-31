@@ -14,8 +14,9 @@ So technically, I shouldn’t care what the engineering culture is in the organi
 
 Engineers are the heart and soul of software companies. If they are pushed to do quality work we all win.
 
-My product will be less prone to errors as the engineers who implement it have more time to invest in testing. They have time to think about what they’re doing, the implementation, its drawbacks and possible side affects.
-My product design will be better. A major part of my job is to listen and collect ideas for my product. I encourage, nay, expect, the engineers I work with have an opinion on the feature they’re developing or the bug that they’re fixing. When engineers are racing to meet a deadline they have no time to think outside of their problem domain, and if they’ve been in this routine for long enough they don’t care either.
+**My product will be less prone to errors** as the engineers who implement it have more time to invest in testing. They have time to think about what they’re doing, the implementation, its drawbacks and possible side affects.
+
+**My product design will be better.** A major part of my job is to listen and collect ideas for my product. I encourage, nay, expect, the engineers I work with have an opinion on the feature they’re developing or the bug that they’re fixing. When engineers are racing to meet a deadline they have no time to think outside of their problem domain, and if they’ve been in this routine for long enough they don’t care either.
 
 ![Office Space](https://karenmeep.github.io/img/officeSpace.jpg)
 
@@ -23,10 +24,11 @@ My product design will be better. A major part of my job is to listen and collec
 >
 > -- <cite>Steve Jobs</cite>
 
- Some of my best ideas came to me when I took a few days to work from home, without the pressure of the daily grind. Innovation can’t happen if you’re racing to meet a deadline or are busy handling support cases all the time.
+Some of my best ideas came to me when I took a few days to work from home, without the pressure of the daily grind. Innovation can’t happen if you’re racing to meet a deadline or are busy handling support cases all the time.
 
-My work environment will be happier and more productive.
+**My work environment will be happier and more productive.**
 Ever ask a colleague a question and get an unwarranted, angry reaction? Well, some people are just like that, and you have to deal with it. However, most people are not, unless they’re treated poorly. Want the team to be more productive? They have to be motivated. Motivated to discuss and push new ideas, motivated to help and challenge one other.
+
 
 Bottom line is, if you want to work with top notch people to create a top notch product, you should care about how the entire team is treated.
 
