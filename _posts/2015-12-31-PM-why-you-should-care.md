@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Why you should care about engineering culture at your company, even if you’re not a developer
+title: Why you should care about engineering culture, even if you’re not a developer
 category: Culture
 tags: [ 'culture', 'engineering', 'management', 'product' ]
 ---
