@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: It's more than an office
+title: It%27s more than an office
 category: onboarding
 tags: [ 'peopleware', 'onboarding', 'learning' ]
 ---
