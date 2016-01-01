@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Why you should care about engineering culture, even if you’re not a developer
 category: Culture
-tags: [ 'culture', 'engineering', 'management', 'product' ]
+tags: [ 'culture', 'engineering', 'management', 'product', 'peopleware' ]
 ---
 
 About two years ago I made the switch from software engineering to product management. One of the side affects to this switch was that I was no longer in charge of writing production code. I set the strategy and priorities, I facilitate communication, I listen to ideas and drive execution and schedule time for bug fixes. However, I am not the one who wakes up in the middle of the night to fix urgent production bugs. 
