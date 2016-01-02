@@ -50,7 +50,7 @@ That being said, here are some restaurants I enjoy eating at again:
 
 - [Din Tai Fung](https://www.dintaifung.com.au/), Hong Kong (or any other location). Best Xiaolongbao ever.
 
-- [Dalida](http://dalidatlv.co.il), Tel Aviv. Favorite dishes are the polenta, the bone marrow french toast.
+- [Dalida](http://dalidatlv.co.il), Tel Aviv. Favorite dishes are the Polenta, the bone marrow French toast.
 
 - [Eiji](http://www.yelp.com/biz/eiji-san-francisco), San Francisco. Probably the best Japanese meal I’ve ever had.
 
@@ -107,9 +107,9 @@ I love that I can point to a country that I've been to and say "Yeah, I know < e
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
 
-It all started with my wanting to go [APIStrat in Berlin](http://apidaysberlin2015.apistrat.com/). My boss suggested we both send in talks so the company would be motivated to pay for it. I had my most eloquent friend help me with my abstract, I had my harshest critics review my talk and slide deck. My boss's boss suggested that I send in CFPs for conferences in Israel as well, which I was hesistant to do as I view Israelies as the toughest audience. I sent in CFPs to all of the conferences I wanted to go to and assumed nothing would happen, but most of them got accepted.
+It all started with my wanting to go [APIStrat in Berlin](http://apidaysberlin2015.apistrat.com/). My boss suggested we both send in talks so the company would be motivated to pay for it. I had my most eloquent friend help me with my abstract, I had my harshest critics review my talk and slide deck. My boss's boss suggested that I send in CFPs for conferences in Israel as well, which I was hesitant to do as I view Israelies as the toughest audience. I sent in CFPs to all of the conferences I wanted to go to and assumed nothing would happen, but most of them got accepted.
 
-When I was in Berlin, after APIStrat was over I had an idea for a talk. It was one of those moments when everything suddenly clicks and makes sense. Luckily I had my computer with me so I could take advantage of it and write down all of my ideas. I was done with my abstract within 15 minutes, had my husband and a friend review it, then sent it in for Endpoint Conf.
+When I was in Berlin, after APIStrat was over I had an idea for a talk. It was one of those moments when everything suddenly clicks and makes sense. Luckily I had my computer with me so I could take advantage of it and write down all of my ideas. I was done with my abstract within 15 minutes, had my husband and a friend review it, then sent it in for Endpoint conference.
 
 That talk got me the Keynote speaker spot. I nearly peed my pants when I got the email.
 
