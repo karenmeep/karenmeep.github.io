@@ -37,7 +37,7 @@ Bottom line is, if you want to work with top notch people to create a top notch 
 > -- <cite>Tom DeMarco, Peopleware: Productive Projects and Teams</cite>
 
 
-
+<hr>
 
 
 
