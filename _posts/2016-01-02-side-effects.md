@@ -14,7 +14,7 @@ A Wix website is made out of 3 views: The editor, where a site is created and ed
 
 On top of the above views lay applications that have parts in each and every view, for example an e-Commerce application, which has the public facing store front that can be modified in the editor, and a back-office portion which lives in the My Account section of the site. These applications use our SDK to interact with the site.
 
-We got a request from a few applications for an SDK function that returns the URL of the application within the My Account section of the site. They needed this URL so they could easily refer their users to the exact location of the app within the back-office. Once the site has been saved, getting the URL for the application within the back-office is no biggie. The question is, if the site is not yet saved (when the URL cannot be provided) what value should the SDK return? 
+We got a request from a few applications for an SDK function that returns the URL of the application within the My Account section of the site. They needed this URL so they could easily refer their users to the exact location of the app within the back-office. Once the site has been saved, getting the URL for the application within the back-office is no biggie. The question is, if the site is not yet saved (when a URL cannot be provided) what value should the SDK return? 
 There are a few options:
 
 - Return nothing (undefined).
@@ -39,13 +39,13 @@ Why was the choice that I made so bad?
 >
 > -- <cite>Unix Philosophy</cite>
 
-I surprised my users. They thought they were doing one thing (getting a url) when in fact they were (also) doing another (opening a dialog for the user to save their site). I created a bad developer experience.
+I surprised my users. They thought they were doing one thing (getting a URL) when in fact they were (also) doing another (opening a dialog for the user to save their site). I created a bad developer experience.
 
 Developers using the SDK quickly caught on to the fact that the function also forces the user to save the site, and abused it. They used it to create flows that badly effected our overall user experience. For the longest time, as we avoided making breaking changes, we had to put up with what I had put out (until we were able to support option #3).
 
 I argue that an SDK function should do one thing and nothing else. It should have **no side effects**. 
 
-I argue that in the work of SDKs and APIs, functions and endpoints that have side effects should be defined as dangerous, as they are unreliable. It’s hard to rely on code that _maybe also does this other thing_.
+In the practice of SDKs and APIs, functions and endpoints that have side effects should be defined as dangerous, as they are unreliable. It’s risky to rely on code that _maybe also does this other thing_.
 
 
 I am happy to say that a few months ago when I was approached with a similar request, I shot it down.
