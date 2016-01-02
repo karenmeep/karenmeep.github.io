@@ -11,7 +11,8 @@ One of the first decisions I made as Wix's SDK product manager is one that haunt
 In order to understand why what I did was so bad I’ll have to explain our ecosystem.
 
 A Wix website is made out of 3 views: The editor, where a site is created and edited, the My Account section of the site, which is a back-office with tools for managing one’s business, and the viewer, which is accessible to the public only after saving and publishing the site. Wix's funnel always starts with the editor, where our users create the website their users will see. Up until the first save, the site technically doesn’t exist, there is no back-office and the site is inaccessible to anyone other than the owner. 
-There are applications that exist in all parts of the site (they use the SDK), for example an e-Commerce application, which has the public facing store front that can be modified in the editor, and a back-office portion which lives in the My Account section of the site.
+
+On top of the above views lay applications that have parts in each and every view, for example an e-Commerce application, which has the public facing store front that can be modified in the editor, and a back-office portion which lives in the My Account section of the site. These applications use our SDK to interact with the site.
 
 We got a request from a few applications for an SDK function that returns the URL of the application within the My Account section of the site. They needed this URL so they could easily refer their users to the exact location of the app within the back-office. Once the site has been saved, getting the URL for the application within the back-office is no biggie. The question is, if the site is not yet saved (when the URL cannot be provided) what value should the SDK return? 
 There are a few options:
@@ -33,6 +34,10 @@ Thinking back, what I should have chosen was option #2. However, I made the mist
 
 
 Why was the choice that I made so bad?
+
+>"Rule of Least Surprise: In interface design, always do the least surprising thing."
+>
+> -- <cite>Unix Philosophy</cite>
 
 I surprised my users. They thought they were doing one thing (getting a url) when in fact they were (also) doing another (opening a dialog for the user to save their site). I created a bad developer experience.
 
