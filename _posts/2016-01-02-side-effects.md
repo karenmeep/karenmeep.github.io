@@ -16,7 +16,7 @@ We got a request from some applications to get the URL of the application within
 
 - Return undefined.
 
-- Return undefined, have the app register to receive a ‘save site’ event once the user actively chose to save the site, then ask for the URL again (or deliver it via the event information).
+- Return undefined, have the app register to receive a ‘save site’ event once the user actively choses to save the site, then ask for the URL again (or deliver it via the event information).
 
 - Silently save the site with a temporary name, then return the URL. Back when this feature was requested, the ability to save the site silently and under a temporary name was not available, so this option was out of the question.
 
