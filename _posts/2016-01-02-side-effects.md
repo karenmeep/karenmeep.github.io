@@ -32,7 +32,7 @@ Thinking back, what I should have chosen was option #2. However, I made the mist
 
 Why was the choice that I made so bad?
 
-I surprised my users. They thought they were doing one thing when in fact they were doing another. I created a bad developer experience.
+I surprised my users. They thought they were doing one thing (getting a url) when in fact they were doing another (forcing the user to save their site). I created a bad developer experience.
 
 Developers using the SDK quickly caught on to the fact that the function also forces the user to save the site, and abused it. They used it to create flows that badly effected our overall user experience. For the longest time, as we strive to avoid breaking changes, we had to put up with what I had put out, until we were able to support option #3.
 
