@@ -35,6 +35,7 @@ Every now and again I think about him and it makes me smile.
 <hr>
 
 ### I cooked and ate good food
+
 My husband and I are at the point where going to restaurants is mostly a let down. Our food is just so much better. I assume that somewhere down the road when we have kids they’ll prefer some god-awful fast food place, as I did when I was a child. When I was in the first grade, my favorite dish was ketchup with a side of Egg McMuffin… or ketchup with a side of anything.
 
 That being said, here are some restaurants I enjoy eating at again:
@@ -45,21 +46,21 @@ That being said, here are some restaurants I enjoy eating at again:
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/uCzd1Fl45Y/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">I declare this my favorite restaurant. 3rd visit in 2 weeks. Different branch, though!</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Karen McMeep (@karen_meep) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-10-12T07:19:21+00:00">Oct 12, 2014 at 12:19am PDT</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </div>
-- Insomnia Cookies, NYC. Best chocolate chip cookies I’ve ever had, paired with the best ice cream I’ve ever had (Birthday cake). Ice cream with frosting, genius.
+- [Insomnia Cookies](http://www.yelp.com/biz/insomnia-cookies-new-york-11), NYC. Best chocolate chip cookies I’ve ever had, paired with the best ice cream I’ve ever had (Birthday cake). Ice cream with frosting, genius.
 
-- Din Tai Fung, Hong Kong (or any other location). Best Xiaolongbao ever.
+- [Din Tai Fung](https://www.dintaifung.com.au/), Hong Kong (or any other location). Best Xiaolongbao ever.
 
-- Dalida, Tel Aviv. Favorite dishes are the polenta, the bone marrow french toast.
+- [Dalida](http://dalidatlv.co.il), Tel Aviv. Favorite dishes are the polenta, the bone marrow french toast.
 
-- Eiji, San Francisco. Probably the best Japanese meal I’ve ever had.
+- [Eiji](http://www.yelp.com/biz/eiji-san-francisco), San Francisco. Probably the best Japanese meal I’ve ever had.
 
-- Truck Deluxe, Tel Aviv. I loved the pulled pork pancakes.
+- [Truck Deluxe](http://www.tripadvisor.com/Restaurant_Review-g293984-d7788379-Reviews-Truck_de_Luxe-Tel_Aviv_Tel_Aviv_District.html), Tel Aviv. I loved the pulled pork pancakes.
 
-- Sweet Maple, San Francisco. OMG THAT MILLIONARE'S BACON.
+- [Sweet Maple](http://sweetmaplesf.com/), San Francisco. OMG THAT MILLIONARE'S BACON.
 
-- Nam, Tel Aviv. My favorite weekday restaurant. I love their soups.
+- [Nam](http://www.tripadvisor.com/Restaurant_Review-g293984-d6762361-Reviews-Nam_Restaurant-Tel_Aviv_Tel_Aviv_District.html), Tel Aviv. My favorite weekday restaurant. I love their soups.
 
-- Nansen, Berlin. Recommended to me by a local, this place surprises me with it's unique combinations and tasty food in the land of pork and potatoes.
+- [Nansen](http://www.yelp.com/biz/nansen-berlin), Berlin. Recommended to me by a local, this place surprises me with it's unique combinations and tasty food in the land of pork and potatoes.
 
 <br>
 <br>
