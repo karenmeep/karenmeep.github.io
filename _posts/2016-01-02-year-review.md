@@ -56,7 +56,7 @@ That being said, here are some restaurants I enjoy eating at again:
 
 - [Truck Deluxe](http://www.tripadvisor.com/Restaurant_Review-g293984-d7788379-Reviews-Truck_de_Luxe-Tel_Aviv_Tel_Aviv_District.html), Tel Aviv. I loved the pulled pork pancakes.
 
-- [Sweet Maple](http://sweetmaplesf.com/), San Francisco. OMG THAT MILLIONARE'S BACON.
+- [Sweet Maple](http://sweetmaplesf.com/), San Francisco. OMG THAT MILLIONAIRE'S BACON.
 
 - [Nam](http://www.tripadvisor.com/Restaurant_Review-g293984-d6762361-Reviews-Nam_Restaurant-Tel_Aviv_Tel_Aviv_District.html), Tel Aviv. My favorite weekday restaurant. I love their soups.
 
