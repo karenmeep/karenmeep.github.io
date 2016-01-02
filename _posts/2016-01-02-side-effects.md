@@ -32,14 +32,15 @@ Thinking back, what I should have chosen was option #2. However, I made the mist
 
 Why was the choice that I made so bad?
 
-Because it created a bad developer experience and a bad user experience.
+I surprised my users. They thought they were doing one thing when in fact they were doing another. I created a bad developer experience.
 
-Developers using the SDK quickly caught on to the fact that the function also forces the user to save the site, and abused it. They used it to create flows that badly effected our overall user experience. For the longest time, in order not to make any breaking changes, we had to put up with it until we were able to support option #3.
+Developers using the SDK quickly caught on to the fact that the function also forces the user to save the site, and abused it. They used it to create flows that badly effected our overall user experience. For the longest time, as we strive to avoid breaking changes, we had to put up with what I had put out, until we were able to support option #3.
 
-I argue that that an SDK function should do one thing and nothing else. It should have **no side effects**.  The "Do One Thing and Do It Well” Unix philosophy has been very helpful for big product dilemmas, but it is rarely used in our day-to-day when we design small features that make up our product.
+I argue that an SDK function should do one thing and nothing else. It should have **no side effects**. The "Do One Thing and Do It Well” Unix philosophy is very helpful for big product dilemmas, but it is rarely used in our day-to-day when we design small features that make up our product. 
 
-I argue that in the work of SDKs and APIs, functions and endpoints that have side effects should be defined as dangerous as they are unreliable. It’s hard to rely on code that _maybe also does this other thing_.
+I argue that in the work of SDKs and APIs, functions and endpoints that have side effects should be defined as dangerous, as they are unreliable. It’s hard to rely on code that _maybe also does this other thing_, code that has unexpected side effects.
 
-I am happy to say that a few months ago, when I was approached with a similar request, I shot it down.
+
+I am happy to say that a few months ago when I was approached with a similar request, I shot it down.
 
 <hr>
