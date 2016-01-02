@@ -6,13 +6,17 @@ category: Culture
 tags: [ 'culture', 'engineering', 'management', 'product', 'peopleware' ]
 ---
 
-About two years ago I made the switch from software engineering to product management. One of the side affects to this switch was that I was no longer in charge of writing production code. I set the strategy and priorities, I facilitate communication, I listen to ideas and drive execution and schedule time for bug fixes. However, I am not the one who wakes up in the middle of the night to fix urgent production bugs. 
+A few years ago I was not aware of company culture. When interviewing for developer positions I never asked about the culture, I only cared about the money. 
 
-So technically, I shouldn’t care what the engineering culture is in the organization that I work for, right?
+That kind of thinking landed me in companies I quickly left. The kind where management sets deadlines, the VP of R&D doesn't know what debugging is, where no tests are written and developers are called to the office in the middle of the night to personally explain production failures, despite having fixed them from home. (Seriously, wouldn't a phone call been enough?)
+
+That's when I started caring about engineering culture. 
+
+However, having made a transition to product management, I no longer write and deploy code to production. I set the strategy and priorities, I facilitate communication & trust, I listen to ideas & drive execution, and schedule time for bug fixes. So as I no longer occupy an engineering role, I should not care about engineering culture, right?
 
 **Wrong.**
 
-Engineers are the heart and soul of software companies. If they are pushed to do quality work we all win.
+Engineers are the heart and soul of software companies. When they are pushed to do quality work we all win.
 
 **My product will be less prone to errors** as the engineers who implement it have more time to invest in testing. They have time to think about what they’re doing, the implementation, its drawbacks and possible side affects.
 
