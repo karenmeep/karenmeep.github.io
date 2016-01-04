@@ -14,7 +14,9 @@ The day before the course started I went into the office that was to be the chap
 
 Our goals for this training course are:
 - Promote self learning, self sufficiency
+
 - Team and peer collaboration and learning
+
 - Assimilation into the company culture
 
 Having read [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439), I hypothesize that the way we arrange their first office directly affects their state of mind and whether or not we are successful in achieving our goals.
