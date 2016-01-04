@@ -31,7 +31,7 @@ Engineers are the heart and soul of software companies. When they are pushed to 
 Some of my best ideas came to me when I took a few days to work from home, without the pressure of the daily grind. Innovation can’t happen if you’re racing to meet a deadline or are busy handling support cases all the time.
 
 **My work environment will be happier and more productive.**
-Ever ask a colleague a question and get an unwarranted, angry reaction? Well, some people are just like that, and you have to deal with it. However, most people are not, unless they’re treated poorly. Want the team to be more productive? They have to be motivated. Motivated to discuss and push new ideas, motivated to help and challenge one other.
+Ever ask a colleague a question and get an unwarranted, angry reaction? Well, some people are just like that, and you have to deal with it. However, most people are not, unless they’re treated poorly. Want the team to be more productive? They have to be motivated. Motivated to discuss and push new ideas, motivated to help and challenge one another.
 
 
 Bottom line is, if you want to work with top notch people to create a top notch product, you should care about how the entire team is treated.
