@@ -30,7 +30,7 @@ The first option suggests there is a hierarchy, it suggests that there is one pe
 The third option is completely out of the question.
 Attendees of the course are employees from day 1. We trust them to do their job, which currently is learning and growing. Furthermore, having their backs face their teammates promotes self learning but will make it difficult for them to communicate and collaborate with one another.
 
-We are left with option #2. It provides enough personal space and privacy, while enabling a clear line of vision for collaboration. As an added bonus it simulates the environment attendees will face when joining their respective teams.
+We are left with option #2. It provides enough personal space and privacy, while enabling a clear line of vision for collaboration. As an added bonus, it simulates the environment attendees will join once the course is over, it attests that they are treated equally.
 
 
 
