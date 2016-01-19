@@ -6,6 +6,8 @@ category: Culture
 tags: [ 'culture', 'engineering', 'management', 'product', 'peopleware' ]
 ---
 
+![Why should I care](https://karenmeep.github.io/img/futurama.jpg)
+
 A few years ago I was not aware of company culture, when interviewing for developer positions I never inquired about it. What I cared about was flexible hours, being measured based on my work (not how many hours I spend at the office), and my salary.
 
 That kind of thinking landed me in companies I quickly left. The kind where management sets deadlines, the VP of R&D doesn't know what debugging is, where no tests are written and developers are called to the office in the middle of the night to personally explain production failures, despite having fixed them from home. (Seriously, wouldn't a phone call been enough?)
