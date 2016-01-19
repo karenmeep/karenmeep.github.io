@@ -22,7 +22,7 @@ Just like no one has life “all figured out”, no speaker has it “all figure
 
 ## Topic 
 
-Here are a few questions I like to ask in order to jump start my topic picking process:
+Here are a few questions I like to ask in order to jump-start my topic picking process:
 
 - What was a hunch that you had that turned out to be correct? Is there research that backs it up or occurrences of others following the same pattern? Can you explain where your idea came from?
 - Same for a hunch that turned out to be incorrect. What led you to that notion? What was the story behind it? What lessons did you learn from the process?
