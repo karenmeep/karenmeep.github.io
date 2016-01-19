@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: How you start speaking (in tech conferences)
+title: How to start speaking (in tech conferences)
 category: Speaking
 tags: [ 'speaking', 'CFP', 'tech', 'conferences' ]
 ---
