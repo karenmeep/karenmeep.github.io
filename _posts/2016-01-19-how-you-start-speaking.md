@@ -67,7 +67,7 @@ This is a question that comes up often. Here are a few Twitter accounts I follow
 
 If you’re interested in a specific conference, you should follow their account. Most conferences have accounts of their own [YouGottaLoveFrontEnd](https://twitter.com/yglfconf), [APIStrat](https://twitter.com/apistrat), [StatsCraft](https://twitter.com/statscraft), [ELAConf](https://twitter.com/elaconf), and [Signal](https://twitter.com/signalconf) to name a few.
 
-I also use [Lanyrd](http://lanyrd.com/) to find conferences I may have missed on Twitter, and for tracking my speaker history.
+I also use [Lanyrd](http://lanyrd.com/) to find conferences I may have missed on Twitter, and for tracking [my speaker history](http://lanyrd.com/profile/karencohen/).
 
 ## Content and delivery 
 
