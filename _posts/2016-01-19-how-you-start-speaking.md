@@ -58,7 +58,7 @@ Conferences are constantly looking for fresh speakers. Some even offer workshops
 
 ##Finding places to speak 
 
-This is a question that comes up often. Here are a few places Twitter accounts I follow to find open Call For Proposals: 
+This is a question that comes up often. Here are a few Twitter accounts I follow to find open Call For Proposals: 
 
 - [Call To Speakers](https://twitter.com/calltospeakers)
 - [Callback Women](https://twitter.com/callbackwomen)
