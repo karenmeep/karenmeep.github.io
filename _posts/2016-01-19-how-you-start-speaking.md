@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: How to start speaking (in tech conferences)
 category: Speaking
-tags: [ 'speaking', 'CFP', 'tech', 'conferences' ]
+tags: [ 'speaking', 'CFP', 'tech', 'conferences', 'publicSpeaking' ]
 ---
 
 I’ve been running into too many smart, interesting and opinionated people who want to start speaking but are unsure where to start. At some point I noticed I was repeating myself so I decided I’d write down what I have to say in hopes that it could be helpful to people outside of my immediate social circle.
@@ -60,10 +60,10 @@ Conferences are constantly looking for fresh speakers. Some even offer workshops
 
 This is a question that comes up often. Here are a few places Twitter accounts I follow to find open Call For Proposals: 
 
-- [Call To Speakers](https://twitter.com/statscraft)
+- [Call To Speakers](https://twitter.com/calltospeakers)
 - [Callback Women](https://twitter.com/callbackwomen)
 - [Technically Speaking](https://twitter.com/techspeakdigest) (and mailing list!)
-- [DevOps Conferences](https://twitter.com/statscraft)
+- [DevOps Conferences](https://twitter.com/devopsconfs)
 
 If you’re interested in a specific conference, you should follow their account. Most conferences have accounts of their own [YouGottaLoveFrontEnd](https://twitter.com/yglfconf), [APIStrat](https://twitter.com/apistrat), [StatsCraft](https://twitter.com/statscraft), [ELAConf](https://twitter.com/elaconf), and [Signal](https://twitter.com/signalconf) to name a few.
 
