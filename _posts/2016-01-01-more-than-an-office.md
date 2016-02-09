@@ -13,6 +13,7 @@ I came in to help run this chapter approximately 3 days before it started. The p
 The day before the course started I went into the office that was to be the chapters home for the duration of the course. The space was previously used for storage and still felt that way after we cleaned it up. It felt cold, dark and unhappy. Not quite the atmosphere that matches our company’s spirit.
 
 Our goals for this training course are:
+
 - Promote self learning, self sufficiency
 
 - Team and peer collaboration and learning

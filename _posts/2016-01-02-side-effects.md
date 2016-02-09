@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Side Effects
 category: Developer Experience
-tags: [ 'product', 'SDK', 'API', 'DX', 'UX' ]
+tags: [ 'product', 'SDK', 'API', 'DX', 'UX', 'DeveloperExperience' ]
 ---
 
 The "Do One Thing and Do It Well” Unix philosophy is known for being helpful for big product dilemmas, but it is rarely used in our day-to-day when we design the small features that make up our product. 
