@@ -43,3 +43,5 @@ Watching them move in was a treat. Oddly enough, it worked just as I hoped it wo
 Success. They're making this their second home.
 
 <hr>
+
+This is the first post in a series of posts about my involvement in the developer onboarding program where I work. The second post can be found [here](https://karenmeep.github.io/onboarding/2016/02/09/on-mentors.html).
