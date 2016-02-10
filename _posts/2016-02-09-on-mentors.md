@@ -9,7 +9,7 @@ tags: [ 'mentor', 'onboarding', 'peopleware', 'engineering' ]
 This is the second post in a series of posts about my involvement in the developer onboarding program where I work. The first post can be found [here](https://karenmeep.github.io/on-boarding/2016/01/01/more-than-an-office.html).
 
 In this post I'll focus on a different aspect of our onboarding program: **Mentors**. 
-My focus will be on three aspects:
+This post will focus on three aspects:
 
 - Picking mentors for our program
 - Coaching mentors and setting expectations
