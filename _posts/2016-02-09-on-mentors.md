@@ -37,7 +37,7 @@ Following basic content, the group was split up into pairs for a three week long
 
 > "How can we make this person better and more powerful than they already are?"
 
-We tried to address their strengths and weaknesses, and pair them with a mentor that could help bring out the best in them and help push it forward (as opposed to challenge them). Members of the group who were quiet and soft spoken were assigned to the most communicative mentor we had. A member who was praised by the group was assigned to a mentor did not supply much praise, but instead provided feedback and further learning opportunities. Members who we thought would make larger leaps as a result of positive feedback were assigned to mentors who gave more of it.
+We tried to address their strengths and weaknesses, and pair them with a mentor that could help bring out the best in them and help push it forward (as opposed to challenge them). Members of the group who were quiet and soft spoken were assigned to the most communicative mentor we had. A member who was continously praised by the group was assigned to a mentor who did not give much praise, but instead provided feedback and further learning opportunities. Members who we thought would make larger leaps as a result of positive feedback were assigned to mentors who gave more of it.
 
 ## Coaching mentors and setting expectations
 
