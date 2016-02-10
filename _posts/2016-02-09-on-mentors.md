@@ -15,7 +15,7 @@ My focus will be on three aspects:
 - Coaching mentors and setting expectations
 - Data collection 
 
-![On mentors and onboarding](https://karenmeep.github.io/img/mentorsandonboarding.jpeg)
+![On mentors and onboarding](https://karenmeep.github.io/img/mentorsandonboarding.png)
 
 ## How we chose mentors
 
