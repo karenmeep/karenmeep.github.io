@@ -65,10 +65,9 @@ As mentors have other work to tend to, we wanted to take up no more than 1-2 hou
 
 ## Summary
 
-I can't tell you how happy I am to have taken part in the orchestration of this program. I poured myself into it and got a ton back. It seems as though we (mostly) made good decisions and created a great learning environment. 
+This week was the members first week out of the program, having joined their new teams, spread throughout the company. Seems as though we prepared them well for their respective roles, though time will tell how much value this program really provided. We got positive feedback about the format of the mentor sessions, proving  this formula works (that being said, we havent tried other formulas, which may also work!). 
 
-This week was the members first week out of the program and in their new teams. The feedback we got stated that we have prepared them well for their respective roles, and we did it while making them (and us) happy. 
-
+It seems as though we (mostly) made good decisions and created a great learning environment. 
 
 
 
