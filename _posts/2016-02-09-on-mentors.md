@@ -31,7 +31,7 @@ Our mentors met the entire group at a kickoff meeting where we had one of those 
 
 During the first month of the course when basic content was studied (such as Scala, TDD, and Maven) we had the mentors come in once a week and answer questions, not yet assigned to specific members of the group. When there were no questions we encouraged them to socialize and get to know their new colleagues. Following every mentor session, we collected feedback focusing on the mentor's impressions of the group as a whole and its members, and common areas of struggle (Does everyone (or a couple of members) have trouble understanding a certain concept? If so, we can have someone come in to hash it out).
 
-![this time it's personal](https://karenmeep.github.io/img/personal.jpeg)
+![this time it's personal](https://karenmeep.github.io/img/personal.jpg)
 
 Following basic content, the group was split up into pairs for a three week long project. That's was when we paired mentees and mentors. We asked one question:
 
