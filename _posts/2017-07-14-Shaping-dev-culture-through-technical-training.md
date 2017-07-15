@@ -43,7 +43,7 @@ Online resources (not tailored), lectures and workshops given by company employe
 
 ##### Personal mentorship
 
-Design reviews, code reviews, and 1-on-1s for setting and following-up on Kickstarters’ personal goals.
+Design reviews, code reviews, and 1-on-1s for setting and following-up on Kickstarters’ personal goals. Read more about this [here](https://karenmeep.github.io/onboarding/2016/02/09/on-mentors.html)
 
 ##### Independent long term project 
 
