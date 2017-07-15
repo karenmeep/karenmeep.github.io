@@ -9,7 +9,8 @@ tags: [ 'mentor', 'onboarding', 'peopleware', 'engineering' ]
 This is the second post in a series of posts about my involvement in the developer onboarding program where I work. The first post can be found [here](https://karenmeep.github.io/on-boarding/2016/01/01/more-than-an-office.html).
 
 In this post I'll focus on a different aspect of our onboarding program: **Mentors**. 
-My focus will be on three aspects:
+
+This post will focus on three aspects:
 
 - Picking mentors for our program
 - Coaching mentors and setting expectations
@@ -37,7 +38,7 @@ Following basic content, the group was split up into pairs for a three week long
 
 > "How can we make this person better and more powerful than they already are?"
 
-We tried to address their strengths and weaknesses, and pair them with a mentor that could help bring out the best in them and help push it forward (as opposed to challenge them). Members of the group who were quiet and soft spoken were assigned to the most communicative mentor we had. A member who was praised by the group was assigned to a mentor did not supply much praise, but instead provided feedback and further learning opportunities. Members who we thought would make larger leaps as a result of positive feedback were assigned to mentors who gave more of it.
+We tried to address their strengths and weaknesses, and pair them with a mentor that could help bring out the best in them and help push it forward (as opposed to challenge them). Members of the group who were soft spoken and didn't communicate much were assigned to the most communicative mentor we had (to get them talking). A member who was continuously praised by the group was assigned to a mentor who did not dispense praise easily, but instead provided feedback and further learning opportunities. Members who we thought would make larger leaps as a result of positive feedback were assigned to mentors who gave more of it.
 
 ## Coaching mentors and setting expectations
 
@@ -58,9 +59,9 @@ As mentors have other work to tend to, we wanted to take up no more than 1-2 hou
 
 1. Session prep with one of us. This is a quick 2-3 minute summary of what the group worked on since the mentor last visited, with special attention to difficult issues that arose (such as good questions or topics that were discussed, but not necessarily understood by everyone).
 
-2. A 1 on 1 with the mentee, in a private setting. This is to get their mentees talking and asking questions they wouldn't ask in a group setting. 
+2. A 1-on-1 with the mentee, in a private setting. This is to get their mentees talking and asking questions they wouldn't ask in a group setting. 
 
-3. Code review, held in the shared workspace, preferably with the mentee's teammate listening. An important note is that most of the work was done in pair programming (otherwise we probably would not have encouraged this). We also encouraged open discussions (between different mentors, between us, between anyone who came into the workspace) so mentees would hear several opinions and options to solving a problem (In the course retrospective, this was called out a couple of times to have been a success). Another important thing to note here is that format worked because of the atmosphere we created. As our mantra was "*quality (and learning) over quantity*", members did not compete against each other, but rather helped and taught one another (This was also pointed as a successful aspect of the program in our retrospective).
+3. Code review, held in the shared workspace, preferably with the mentee's teammate listening. An important note is that most of the work was done in pair programming (otherwise we probably would not have encouraged this). We also encouraged open discussions (between different mentors, between us, between anyone who came into the workspace) so mentees would hear several opinions and options to solving a problem (In the course retrospective, this was called out a couple of times to have been a success). Another important thing to note is that format worked because of the atmosphere we created. As our mantra was "*quality (and learning) over quantity*", members did not compete against each other, but rather helped and taught one another (This was also pointed as a successful aspect of the program in our retrospective).
 
 4. Lastly, a 10 minute summary, with one us running the course, to collect data. Now that mentors have been assigned their mentees, we started building profiles on group members: What they're good at, what they need to improve upon, red flags which may have been spotted, characteristics, narrow vs broad focus. Don't feel bad about doing this, it's necessary for assigning group members to existing teams once the program is over.
 
@@ -69,7 +70,7 @@ As mentors have other work to tend to, we wanted to take up no more than 1-2 hou
 
 ## Summary
 
-This week was the members first week out of the program, having joined their new teams, spread throughout the company. Seems as though we prepared them well for their respective roles, though time will tell how much value this program really provided. We got positive feedback about the format of the mentor sessions, proving  this formula works (that being said, we havent tried other formulas, which may also work!). 
+This week was the members first week out of the program, having joined their new teams, spread throughout the company. Seems as though we prepared them well for their respective roles, though time will tell how much value this program really provided. We got positive feedback about the format of the mentor sessions, proving  this formula works (that being said, we haven't tried other formulas, which may also work!). 
 
 It seems as though we (mostly) made good decisions and created a great learning environment. 
 
