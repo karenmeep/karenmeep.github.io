@@ -66,3 +66,6 @@ Mentoring sessions are formatted in a way that help us collect data for both sho
 
 ![](https://karenmeep.github.io/img/businesspersonal.jpg)
 
+
+> Karen Cohen heads the Wix Kickstart program for server developers. 
+
