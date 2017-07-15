@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Karen Meep"
+author: "Karen Meep AKA Karen Cohen"
 title: "Karen Meep"
 description: "Blog and website of Karen Meep."
-keywords: "karen, karen_meep, cohen, zellner, blog, product, management, tech, pants, butts"
+keywords: "karen, karen_meep, cohen, zellner, blog, product, management, architecture, code"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
@@ -56,7 +56,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Find me on the intersection of product, management and code"
+  - text: "Product x Architecture x Management x Code"
 
 me-img: "/img/karen.png"
 
