@@ -6,7 +6,7 @@ category: onboarding
 tags: [ 'mentor', 'onboarding', 'peopleware', 'engineering' ]
 ---
 
-This is the second post in a series about my involvement in the developer onboarding program where I work. The first one can be found[here](https://karenmeep.github.io/on-boarding/2016/01/01/more-than-an-office.html).
+This is the second post in a series about my involvement in the developer onboarding program where I work. The first one can be found [here](https://karenmeep.github.io/on-boarding/2016/01/01/more-than-an-office.html).
 
 This post will focus on three aspects:
 
@@ -43,7 +43,7 @@ At the start of the course pairings are made based on members’ CVs and mentors
 
 ![image alt text](image_1.jpg)
 
-Following basic content (Scala, TDD, ..), the group is split into pairs for a three week long project (nothing to PROD). By that time we will have collected enough data about our mentors and Kickstarters. At this milestone we may decide to make changes in the pairings.
+Following basic content (Scala, TDD, ..), the group is split into pairs for a three week long project (nothing-to-production). By that time we will have collected enough data about our mentors and Kickstarters. At this milestone we may decide to make changes in the pairings.
 
 We ask one question:
 
@@ -59,13 +59,10 @@ For us, mentors don’t just help their mentees, they also help us identify and 
 
 Mentoring sessions are formatted in a way that help us collect data for both short-term and long-term actions: 
 
-1. Session prep with one of us. This is a quick 2–3 minute summary of what the group worked on since the mentor last visited, with special attention paid to difficult issues that arose during the program, such as good questions or topics that were discussed, but not necessarily understood by everyone. 
-
-2. Private 1:1 with the mentees. This is to get their mentees talking and asking questions they wouldn’t ask in a group setting. We expect our mentors to have a 1:1 with their mentees for one hour every week. If a mentor happens to visit more often she is not required to have a 1:1.
-
+1. Session prep with one of us. This is a quick 2–3 minute summary of what the group worked on since the mentor last visited, with special attention paid to difficult issues that arose during the program, such as good questions or topics that were discussed, but not necessarily understood by everyone. (Lately we've been doing this using a Slack channel)
+2. Private 1:1 with the mentees. This is to get their mentees talking and asking questions they wouldn’t ask in a group setting. We expect our mentors to have a 1:1 with their mentees for one hour every week. 
 3. Code review, held in the shared workspace, preferably with the mentee’s teammate listening. An important note is that most of the work is done in pair programming. We encourage open discussions between mentors, course leads, and anyone who comes into our workspace so mentees hear several opinions and options to solving a problem. 
-
-4. Lastly, a 5-10 minute checkout process with a course lead to collect feedback concerning issues that require our immediate action.
+4. Lastly, a 5-10 minute checkout process with a course lead to collect feedback concerning issues that require our immediate action. (Lately we've been doing this using a Slack channel)
 
 ![image alt text](image_2.jpg)
 
