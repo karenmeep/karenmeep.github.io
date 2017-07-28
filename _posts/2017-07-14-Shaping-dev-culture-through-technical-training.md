@@ -73,13 +73,17 @@ We invest time and resources into creating an environment of knowledge sharing a
 
 Common questions include:
 
-* When am I expected to show up / leave? How long is lunch time? 
-* How available do I need to be for production issues?
-* How do I communicate with other developers? (Slack) How do I communicate with non-devs? (Hangouts)
-* How do I get someone from another team to do something? (usually, a Jira ticket, sometimes personally following-up)
+* When am I expected to show up / leave? How long is lunch time? How encouraged is work/life balance in my role/team?
+* Whose responsibility is it to handle production issues? How available do I need to be for production issues? How are production issues handled?
+* How do I communicate with other developers? (Slack) How do I communicate with non-devs? (hangouts)
+* What is the process for a new feature from creation to production? How are decisions made in my team?
+* How are code reviews done? How is technical debt handled?
+* How does the company support me in evolving in my role?
+* How do I get someone from another team to do something? (usually, a Jira ticket, sometimes personally following up).
+* How do I make X better? (Take initiative and/or provide face to face, constructive and actionable feedback to the person leading that effort)
 * Can I plan a vacation for 6 months from now?
-* How do I make sure I don't suck at my job?
-* Stigma vs Reality: address rumors about your company
+* How do I move to a different team/role?
+* Stigma vs Reality: Address rumors about your company
 
 ## Techniques for unveiling culture elements
 
