@@ -13,6 +13,7 @@ order: 1
 
 <footer>
   <!-- Social Icons -->
+<!-- Social Icons -->
 <ul class="icons">
   {%- if site.twitter_url -%}
   <li><a href="{{- site.twitter_url -}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -41,9 +42,16 @@ order: 1
   {%- if site.dribbble_url -%}
   <li><a href="{{- site.dribbble_url -}}" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
   {%- endif -%}
+  {%- if site.medium_url -%}
+  <li><a href="{{- site.medium_url -}}" class="icon fa-medium"><span class="label">Last.fm</span></a></li>
+  {%- endif -%}
+  {%- if site.lastfm_url -%}
+  <li><a href="{{- site.lastfm_url -}}" class="icon fa-lastfm"><span class="label">Last.fm</span></a></li>
+  {%- endif -%}
   {%- if site.email -%}
   <li><a href="mailto:{{- site.email -}}" class="icon fa-envelope"><span class="label">Email</span></a></li>
   {%- endif -%}
 </ul>
+
 
 </footer>
