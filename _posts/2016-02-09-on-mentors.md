@@ -14,7 +14,7 @@ This post will focus on three aspects:
 * Coaching mentors and setting expectations
 * Data collection
 
-![On mentors and onboarding](https://karenmeep.github.io/assets/images/mentorsandonboarding.png)
+<a href="#" class="image featured"><img src="https://karenmeep.github.io/assets/images/mentorsandonboarding.png" alt="" /></a>
 
 ### How we choose mentors
 
@@ -41,7 +41,7 @@ Examples of things we discuss during this workshop include:
 
 At the start of the course pairings are made based on members’ CVs and mentors experience. Mentees coming in with more experience will get mentors that have more experience. One on ones start on the first week of the course.
 
-![this time it's personal](https://karenmeep.github.io/assets/images/personal.jpg)
+<a href="#" class="image featured"><img src="https://karenmeep.github.io/assets/images/personal.jpg" alt="" /></a>
 
 Following basic content (Scala, TDD, ..), the group is split into pairs for a three week long project (nothing-to-production). By that time we will have collected enough data about our mentors and Kickstarters. At this milestone we may decide to make changes in the pairings.
 
@@ -64,7 +64,7 @@ Mentoring sessions are formatted in a way that help us collect data for both sho
 3. Code review, held in the shared workspace, preferably with the mentee’s teammate listening. An important note is that most of the work is done in pair programming. We encourage open discussions between mentors, course leads, and anyone who comes into our workspace so mentees hear several opinions and options to solving a problem. 
 4. Lastly, a 5-10 minute checkout process with a course lead to collect feedback concerning issues that require our immediate action. (Lately we've been doing this using a Slack channel)
 
-![](https://karenmeep.github.io/assets/images/businesspersonal.jpg)
+<a href="#" class="image featured"><img src="https://karenmeep.github.io/assets/images/businesspersonal.jpg" alt="" /></a>
 
 
 > Karen Cohen heads the Wix Kickstart program for server developers. 
