@@ -12,8 +12,7 @@ As our company grows, we have to make sure we don’t lose our culture. Left una
 
 One of the ways in which we actively influence and strengthen our culture is through Kickstart, an onboarding course for junior developers. 
 
-![](https://karenmeep.github.io/assets/images/coworking-laugh.jpeg)
-
+<a href="#" class="image"><img src="https://karenmeep.github.io/assets/images/coworking-laugh.jpeg" alt="" /></a>
 
 There are more junior developers than there are senior ones yet; most juniors aren't measured by how they influence a company’s culture. Instead of treating them like influencers and sending them out as agents of the culture a company wants, they end up learning whatever culture is around them, which is not necessarily the culture the company wanted to instill. 
 

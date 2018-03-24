@@ -8,7 +8,7 @@ tags: [ 'product', 'management', 'gdpr', 'privacy', 'integration' ]
 
 The General Data Protection Regulation (GDPR) is a European regulation that aims to unify data protection for all. Businesses that are not compliant may get sanctioned up to 4% of the annual worldwide turnover or fined of up to € 20M (the higher of the two), per infringement. If your company processes any information of EU citizens you should start paying attention.
 
-![Photo by Dayne Topkin on Unsplash](https://karenmeep.github.io/assets/images/dayne-topkin-78982-unsplash.jpg)
+<a href="#" class="image"><img src="https://karenmeep.github.io/assets/images/dayne-topkin-78982-unsplash.jpg" alt="" />Photo by Dayne Topkin on Unsplash</a>
 
 TLDR; When you collect data linked to a citizen of the EU, they are entitled to know what data is kept, for what purpose, and for how long. Users are entitled to access (“Right To Access”), export (“Right to Data Portability”), change, and permanently delete (“Right To Be Forgotten”) all their data from your systems (read more here). They should be able to access their data as easily as they entered it in the first place.
 
@@ -76,7 +76,7 @@ Have yourself and your team available for questions, on all communication channe
 
 ### Keep A Paper Trail
 
-![Photo by Maarten van den Heuvel on Unsplash](https://karenmeep.github.io/assets/images/maarten-van-den-heuvel-73123-unsplash.jpg)
+<a href="#" class="image"><img src="https://karenmeep.github.io/assets/images/maarten-van-den-heuvel-73123-unsplash.jpg" alt="" />Photo by Maarten van den Heuvel on Unsplash</a>
 
 Document all slides, documents and decisions made. This is a best practice for running any project, but especially important when there are regulatory related products. It will help you run your project better and later on in understanding the thought process that was made for reaching decisions.
 
