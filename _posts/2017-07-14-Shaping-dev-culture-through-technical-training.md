@@ -12,7 +12,7 @@ As our company grows, we have to make sure we don’t lose our culture. Left una
 
 One of the ways in which we actively influence and strengthen our culture is through Kickstart, an onboarding course for junior developers. 
 
-![](https://karenmeep.github.io/img/coworking-laugh.jpeg)
+![](https://karenmeep.github.io/assets/images/coworking-laugh.jpeg)
 
 
 There are more junior developers than there are senior ones yet; most juniors aren't measured by how they influence a company’s culture. Instead of treating them like influencers and sending them out as agents of the culture a company wants, they end up learning whatever culture is around them, which is not necessarily the culture the company wanted to instill. 
@@ -66,7 +66,7 @@ Must haves:
 
 # Culture: the (un)written rules of our organization
 
-![](https://karenmeep.github.io/img/door-culture.jpeg)
+![](https://karenmeep.github.io/assets/images/door-culture.jpeg)
 
 New employees come in with a load of questions, most of them not about technology at all. Some questions can be anticipated and have well-defined answers (usually around salary, ESPP and other legal factors). Other questions may not have an obvious answer or may have an answer that's inconsistent throughout the organization. It is up to us to help new employees discover what questions to ask and where (and how) to get answers. 
 

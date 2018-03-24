@@ -13,7 +13,7 @@ That kind of thinking landed me in companies I quickly left. The kind where mana
 
 That's when I started caring about engineering culture. 
 
-![Why should I care](https://karenmeep.github.io/img/futurama.jpg)
+![Why should I care](https://karenmeep.github.io/assets/images/futurama.jpg)
 
 
 Having made a transition to product management, I no longer write and deploy code to production. I set the strategy and priorities, I facilitate communication & trust, I listen to ideas & drive execution, and schedule time for bug fixes. So as I no longer occupy an engineering role, I should not care about engineering culture, right?
@@ -26,7 +26,7 @@ Engineers are the heart and soul of software companies. When they are pushed to 
 
 **My product design will be better.** A major part of my job is to listen and collect ideas for my product. I encourage, nay, expect, the engineers I work with have an opinion on the feature they’re developing or the bug that they’re fixing. When engineers are racing to meet a deadline they have no time to think outside of their problem domain, and if they’ve been in this routine for long enough they don’t care either.
 
-![Office Space](https://karenmeep.github.io/img/officeSpace.jpg)
+![Office Space](https://karenmeep.github.io/assets/images/officeSpace.jpg)
 
 > "Innovation comes from people meeting up in the hallways or calling each other at 10:30 at night with a new idea, or because they realized something that shoots holes in how we’ve been thinking about a problem"
 >
