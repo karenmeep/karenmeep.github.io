@@ -15,16 +15,14 @@ The day before the course started I went into the office that was to be the chap
 Our goals for this training course are:
 
 - Promote self learning, self sufficiency
-
 - Team and peer collaboration and learning
-
 - Assimilation into the company culture
 
 Having read [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439), I hypothesize that the way we arrange their first office directly affects their state of mind and whether or not we are successful in achieving our goals.
 
 Our most basic possible options are:
 
-![options](https://karenmeep.github.io/assets/images/officeSetup.png)
+<a href="#" class="image featured"><img src="https://karenmeep.github.io/assets/images/officeSetup.png" alt="" /></a>
 
 The first option suggests there is a hierarchy, it suggests that there is one person (usually standing at the head of the room) that you should learn from. We want to encourage attendees of the course to learn from each other. This setup has the added affect of immediately associating this experience to that of a classroom where you’re bored and unchallenged. That’s not an association we wanted to make. 
 

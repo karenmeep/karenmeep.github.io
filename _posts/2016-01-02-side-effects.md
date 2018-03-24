@@ -18,11 +18,8 @@ We got a request from a few applications for an SDK function that returns the UR
 There are a few options:
 
 - Return nothing (undefined).
-
 - Return undefined, have the app register to receive a ‘save site’ event once the user actively choses to save the site, then the app can ask for the URL again (or deliver it via the event information).
-
 - Silently save the site with a temporary name, then return the URL. Back when this feature was requested, the ability to save the site silently and under a temporary name was not available, so this option was out of the question.
-
 - Pop up a window asking the user to save their site, then return the URL.
 
 Thinking back, what I should have chosen was option #2. However, I made the mistake of choosing option #4, which looks like this:
