@@ -12,6 +12,8 @@ I’ve developed a habit that helps me recover quickly after a bad experience wi
 
 If I find myself feeling drained following a conflict, I go to a colleague I enjoy working with and give them good feedback. I tell them how much I enjoy working with them and why.
 
+<a href="#" class="image featured"><img src="https://karenmeep.github.io/assets/images/eli-defaria-100532-unsplash.jpg" alt="" />Photo by Eli DeFaria on Unsplash</a>
+
 This simple act results in two things:
 1. I quickly shake off any frustration or angst leftover from what happened earlier. 
 2. My colleagues get unsolicited and positive reinforcement for the work that they do.
